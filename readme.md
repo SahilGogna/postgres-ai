@@ -47,3 +47,8 @@ ollama pull mistral
 
 # Run it to test
 ollama run mistral
+---
+## 📥 Install Dependencies
+
+```bash
+streamlit run app.py
