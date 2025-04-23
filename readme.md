@@ -54,5 +54,5 @@ ollama run mistral
 ### How to run?
 
 ```bash
-streamlit run app.py
+streamlit run postgres-ai.py
 ```
