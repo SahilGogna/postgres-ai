@@ -32,7 +32,6 @@ pip install langchain langchain-community langchain-openai psycopg2-binary
 
 ## Setup & Installation
 
-```bash
 # Install dependencies
 pip install langchain langchain-community langchain-openai psycopg2-binary
 
@@ -47,8 +46,13 @@ ollama pull mistral
 
 # Run it to test
 ollama run mistral
+
+```
 ---
-## 📥 Install Dependencies
+
+
+### How to run?
 
 ```bash
 streamlit run app.py
+```
